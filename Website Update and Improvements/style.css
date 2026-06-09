@@ -182,7 +182,7 @@ nav {
 .hero-bg {
   position: absolute;
   inset: 0;
-  background-image: url('images/facility-overview.jpg.JPG');
+  background-image: url('https://res.cloudinary.com/dxxf8iuoz/image/upload/v1781009705/facility-overview.jpg_sojxbh.jpg');
   background-size: cover;
   background-position: center;
   filter: brightness(0.3);
